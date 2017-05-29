@@ -1,0 +1,432 @@
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.0.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.Blocked.var.01.raster.mock
+  rotate: false
+  xy: 0, 674
+  size: 426, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Blocked.var.01.raster.mock
+  rotate: false
+  xy: 0, 337
+  size: 426, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.ERR.var.01.raster.mock
+  rotate: false
+  xy: 426, 674
+  size: 426, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Irrelevant.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 426, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftBottom.var.01.raster.mock
+  rotate: false
+  xy: 426, 337
+  size: 426, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.Blocked.var.01.raster.mock
+  rotate: false
+  xy: 426, 0
+  size: 426, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.1.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.ERR.var.01.raster.mock
+  rotate: false
+  xy: 0, 674
+  size: 426, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.Irrelevant.var.01.raster.mock
+  rotate: false
+  xy: 0, 337
+  size: 426, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftBottom.var.01.raster.mock
+  rotate: false
+  xy: 426, 674
+  size: 426, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.ERR.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 426, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.Irrelevant.var.01.raster.mock
+  rotate: false
+  xy: 426, 337
+  size: 426, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftBottom.var.01.raster.mock
+  rotate: false
+  xy: 426, 0
+  size: 426, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 674
+  size: 425, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopBottom.var.01.raster.mock
+  rotate: false
+  xy: 0, 337
+  size: 425, 337
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopLeft.var.01.raster.mock
+  rotate: false
+  xy: 425, 674
+  size: 425, 337
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 337
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomRight.var.01.raster.mock
+  rotate: false
+  xy: 425, 337
+  size: 425, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftRight.var.01.raster.mock
+  rotate: false
+  xy: 425, 0
+  size: 425, 337
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.3.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopBottom.var.01.raster.mock
+  rotate: false
+  xy: 0, 674
+  size: 425, 337
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 337
+  size: 425, 337
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomRight.var.01.raster.mock
+  rotate: false
+  xy: 425, 674
+  size: 425, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 337
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopBottom.var.01.raster.mock
+  rotate: false
+  xy: 425, 337
+  size: 425, 337
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopLeft.var.01.raster.mock
+  rotate: false
+  xy: 425, 0
+  size: 425, 337
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.4.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 674
+  size: 424, 337
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BridgeRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 337
+  size: 424, 337
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopRight.var.01.raster.mock
+  rotate: false
+  xy: 424, 674
+  size: 424, 337
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.BridgeRight.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 424, 337
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.BridgeRight.var.01.raster.mock
+  rotate: false
+  xy: 424, 337
+  size: 424, 337
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopRight.var.01.raster.mock
+  rotate: false
+  xy: 424, 0
+  size: 424, 337
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.5.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 699
+  size: 424, 233
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomLeft.var.01.raster.mock
+  rotate: false
+  xy: 424, 699
+  size: 424, 233
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Free.var.01.raster.mock
+  rotate: false
+  xy: 0, 466
+  size: 424, 233
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomLeft.var.01.raster.mock
+  rotate: false
+  xy: 424, 466
+  size: 424, 233
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.Free.var.01.raster.mock
+  rotate: false
+  xy: 0, 233
+  size: 424, 233
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightBottom.var.01.raster.mock
+  rotate: false
+  xy: 424, 233
+  size: 425, 233
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 233
+  orig: 555, 674
+  offset: 65, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.Free.var.01.raster.mock
+  rotate: false
+  xy: 425, 0
+  size: 424, 233
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.6.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightTop.var.01.raster.mock
+  rotate: false
+  xy: 425, 323
+  size: 426, 297
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomTop.var.01.raster.mock
+  rotate: false
+  xy: 0, 310
+  size: 425, 310
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BridgeLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 620
+  size: 426, 310
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftTop.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 310
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightTop.var.01.raster.mock
+  rotate: false
+  xy: 426, 620
+  size: 426, 310
+  orig: 555, 570
+  offset: 64, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.BridgeLeft.var.01.raster.mock
+  rotate: false
+  xy: 425, 26
+  size: 426, 297
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.7.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftTop.var.01.raster.mock
+  rotate: false
+  xy: 0, 587
+  size: 425, 297
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomTop.var.01.raster.mock
+  rotate: false
+  xy: 0, 290
+  size: 425, 297
+  orig: 555, 466
+  offset: 64, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomTop.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 290
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.BridgeLeft.var.01.raster.mock
+  rotate: false
+  xy: 425, 594
+  size: 426, 290
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftTop.var.01.raster.mock
+  rotate: false
+  xy: 425, 14
+  size: 425, 290
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightTop.var.01.raster.mock
+  rotate: false
+  xy: 425, 304
+  size: 426, 290
+  orig: 555, 674
+  offset: 64, 273
+  index: -1
+
+com.jfixby.r3.iso.test.wdgs.raster.gdx-atlas.atlasdata.8.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightBottom.var.01.raster.mock
+  rotate: false
+  xy: 0, 558
+  size: 425, 287
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 271
+  size: 425, 287
+  orig: 555, 466
+  offset: 65, 65
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightBottom.var.01.raster.mock
+  rotate: false
+  xy: 425, 574
+  size: 425, 271
+  orig: 555, 570
+  offset: 65, 169
+  index: -1
+com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightLeft.var.01.raster.mock
+  rotate: false
+  xy: 0, 0
+  size: 425, 271
+  orig: 555, 570
+  offset: 65, 169
+  index: -1

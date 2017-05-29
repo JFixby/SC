@@ -1,0 +1,4 @@
+include 'sc-desktop'
+include 'sc-ui'
+include 'sc-staredit-map-reader'
+include 'sc-assets'

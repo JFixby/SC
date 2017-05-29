@@ -1,0 +1,29 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
+    }
+}
+
+ext {
+        scarabeiVersion = "1.4.0"
+        gdxVersion = "1.9.6"
+        ranaVersion = "f3d8d82af8"
+        r3Version = "81c8acd940"
+        appName = "Tinto"
+}
+
+allprojects {
+    repositories {
+		mavenLocal()
+		mavenCentral()
+		maven { url 'https://jitpack.io' }
+		maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+		maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+    }
+}
