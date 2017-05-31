@@ -4,7 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-fokker-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-iso-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-iso-red"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-maze-api"/>
@@ -29,7 +29,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-manager-red"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-package-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-package-red"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-fokker-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-physics-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-physics-red"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-pizza-api"/>
@@ -45,6 +45,8 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/scene2d-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-gson"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/sc-ui"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-fokker-desktop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-desktop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-uiact-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-uiact-red"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

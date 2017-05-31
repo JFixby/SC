@@ -5,7 +5,7 @@
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-ui-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-fokker-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-pizza-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-scene2d-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/box2d-api"/>
@@ -24,5 +24,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-package-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-uiact-api"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

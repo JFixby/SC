@@ -2,7 +2,7 @@
 package com.jfixby.sc.game;
 
 import com.jfixby.r3.api.GameStarter;
-import com.jfixby.r3.api.ui.FokkerUI;
+import com.jfixby.r3.uiact.UIEventsManager;
 import com.jfixby.scarabei.api.assets.ID;
 import com.jfixby.scarabei.api.assets.Names;
 
@@ -12,8 +12,8 @@ public class SCTheGame implements GameStarter {
 	@Override
 	public void onGameStart () {
 
-		FokkerUI.loadUnit(game_ui_unit_id);
-		FokkerUI.allowUserInput();
+		UIEventsManager.loadUnit(game_ui_unit_id);
+		UIEventsManager.allowUserInput();
 	}
 
 }

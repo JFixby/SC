@@ -11,8 +11,6 @@ import com.jfixby.r3.api.EngineParams.Assets;
 import com.jfixby.r3.api.EngineParams.Settings;
 import com.jfixby.r3.api.RedTriplane;
 import com.jfixby.r3.api.shader.R3Shader;
-import com.jfixby.r3.api.ui.FokkerUI;
-import com.jfixby.r3.api.ui.FokkerUIManager;
 import com.jfixby.r3.api.ui.UnitsSpawner;
 import com.jfixby.r3.api.ui.unit.layer.LayerUtils;
 import com.jfixby.r3.engine.core.Fokker;
@@ -30,11 +28,12 @@ import com.jfixby.r3.fokker.adaptor.GdxAdaptor;
 import com.jfixby.r3.fokker.api.FokkerEngineParams;
 import com.jfixby.r3.fokker.api.UnitsMachineExecutor;
 import com.jfixby.r3.fokker.api.starter.FokkerStarterConfig;
-import com.jfixby.r3.fokker.assets.FokkerTextureLoader;
+import com.jfixby.r3.fokker.render.raster.FokkerTextureLoader;
 import com.jfixby.r3.fokker.starter.FokkerStarterConfigAsset;
 import com.jfixby.r3.fokker.starter.FokkerStarterConfigReader;
 import com.jfixby.r3.shader.fokker.FokkerShaderPackageReader;
 import com.jfixby.r3.ui.RedUIManager;
+import com.jfixby.r3.uiact.UIEventsManager;
 import com.jfixby.rana.api.asset.AssetHandler;
 import com.jfixby.rana.api.asset.AssetsConsumer;
 import com.jfixby.rana.api.asset.AssetsManager;
@@ -154,7 +153,7 @@ public class RunSCDesktop {
 // SystemSettings.setFlag(AssetsManager.UseAssetSandBox, false);
 // SystemSettings.setFlag(AssetsManager.ReportUnusedAssets, false);
 // SystemSettings.setFlag(AssetsManagerFlags.AutoresolveDependencies, true);
-		SystemSettings.setFlag(Settings.DisableLogo, true);
+// SystemSettings.setFlag(Settings.DisableLogo, true);
 
 		SystemSettings.setStringParameter(FokkerEngineParams.TextureFilter.Mag,
 			com.badlogic.gdx.graphics.Texture.TextureFilter.Nearest + "");
@@ -199,9 +198,8 @@ public class RunSCDesktop {
 		}
 
 		final RedUIManager tinto_ui_starter = new RedUIManager();
-
-		FokkerUIManager.installComponent(tinto_ui_starter);
-		FokkerUI.installComponent(tinto_ui_starter);
+		tinto_ui_starter.startEventsMachine();
+		UIEventsManager.installComponent(tinto_ui_starter);
 
 		RedTriplane.setGameStarter(new SCTheGame());
 
