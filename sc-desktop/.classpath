@@ -48,5 +48,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/fokker-desktop"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-uiact-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-uiact-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-render-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fokker-render-red"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
