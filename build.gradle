@@ -11,10 +11,10 @@ buildscript {
 }
 
 ext {
-        scarabeiVersion = "1.4.0"
+        scarabeiVersion = "1.5.1"
         gdxVersion = "1.9.6"
-        ranaVersion = "f3d8d82af8"
-        r3Version = "81c8acd940"
+        ranaVersion = "1.1.2"
+        r3Version = "1.0.6"
         appName = "Tinto"
 }
 
